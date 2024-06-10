@@ -31,7 +31,7 @@ I’m a Software Engineer & Troublemaker. I like to explore problems on a whiteb
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=7o182OnK-LY">
-    <img width="300" src=".github/images/speaker.png" />
+    <img height="212" width="300" src=".github/images/speaker.png" />
   </a>
 </div>
 
