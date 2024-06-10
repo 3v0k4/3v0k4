@@ -1,0 +1,24 @@
+name: Generate README
+
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+          cache: "npm"
+      - run: npm ci
+      - env:
+          DEXCOM_EMAIL: ${{ secrets.DEXCOM_EMAIL }}
+          DEXCOM_PASSWORD: ${{ secrets.DEXCOM_PASSWORD }}
+        run: npm run once
+      - uses: stefanzweifel/git-auto-commit-action@v5
