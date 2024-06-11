@@ -49,7 +49,7 @@ const getEstimatedGlucoseValues = async (
 ): Promise<Entry[]> => {
   const body = {
     maxCount: 1,
-    minutes: 5,
+    minutes: 6,
     sessionId,
   };
   const url =
