@@ -15,4 +15,7 @@ jobs:
           node-version: "lts/*"
           cache: "npm"
       - run: npm ci
-      - run: npm run once
+      - env:
+          DEXCOM_EMAIL: ${{ secrets.DEXCOM_EMAIL }}
+          DEXCOM_PASSWORD: ${{ secrets.DEXCOM_PASSWORD }}
+        run: npm run once
