@@ -7,6 +7,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Set up Node
@@ -19,3 +21,4 @@ jobs:
           DEXCOM_EMAIL: ${{ secrets.DEXCOM_EMAIL }}
           DEXCOM_PASSWORD: ${{ secrets.DEXCOM_PASSWORD }}
         run: npm run once
+      - uses: stefanzweifel/git-auto-commit-action@v5

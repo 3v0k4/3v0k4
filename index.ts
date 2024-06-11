@@ -116,7 +116,6 @@ const main = async () => {
       : `<strong>${entries[0].estimatedValue} mg/dl at ${entries[0].timestamp}</strong>`;
   const readme = template.toString().replace("<!--GLUCOSE-->", string);
   writeFileSync(README_PATH, readme);
-  execSync('git commit -am "update glucose in readme"');
 };
 
 // RUN
