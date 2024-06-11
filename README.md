@@ -4,30 +4,42 @@
 
 <div align="center">
   <a href="https://odone.io/tir">
-    <img width="75" src=".github/images/drop.svg" />
+    <picture>
+      <source srcset=".github/images/drop-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="75" src=".github/images/drop-dark.svg" />
+    </picture>
   </a>
 
-  <strong>69 mg/dl at 21:52 CET</strong>
+  <strong>68 mg/dl at 22:02 CET</strong>
 
   <br />
 
   <a href="https://odone.io">
-    <img height="25" align="top" src=".github/images/home.svg" />
+    <picture>
+      <source srcset=".github/images/home-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/home-dark.svg" />
+    </picture>
   </a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/riccardoodone">
-    <img height="25" align="top" src=".github/images/linkedin.svg" />
+    <picture>
+      <source srcset=".github/images/linkedin-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/linkedin-dark.svg" />
+    </picture>
   </a>
   &nbsp; &nbsp;
   <a href="https://odone.io/tir">
-    <img height="30" align="top" src=".github/images/youtube.svg" />
+    <picture>
+      <source srcset=".github/images/youtube-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/youtube-dark.svg" />
+    </picture>
   </a>
 </div>
 
 <br />
 <br />
 
-I’m a Software Engineer & Troublemaker. I like to explore problems on a whiteboard, find an elegant solution, and scale it with code.
+I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, find elegant solutions, and scale them with code.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=7o182OnK-LY">
