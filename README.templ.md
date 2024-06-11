@@ -4,7 +4,10 @@
 
 <div align="center">
   <a href="https://odone.io/tir">
-    <img width="75" src=".github/images/drop.svg" />
+    <picture>
+      <source srcset=".github/images/drop-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="75" src=".github/images/drop-dark.svg" />
+    </picture>
   </a>
 
   <!--GLUCOSE-->
@@ -12,15 +15,24 @@
   <br />
 
   <a href="https://odone.io">
-    <img height="25" align="top" src=".github/images/home.svg" />
+    <picture>
+      <source srcset=".github/images/home-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/home-dark.svg" />
+    </picture>
   </a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/riccardoodone">
-    <img height="25" align="top" src=".github/images/linkedin.svg" />
+    <picture>
+      <source srcset=".github/images/linkedin-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/linkedin-dark.svg" />
+    </picture>
   </a>
   &nbsp; &nbsp;
   <a href="https://odone.io/tir">
-    <img height="30" align="top" src=".github/images/youtube.svg" />
+    <picture>
+      <source srcset=".github/images/youtube-light.svg" media="(prefers-color-scheme: dark)" />
+      <img width="25" align="top" src=".github/images/youtube-dark.svg" />
+    </picture>
   </a>
 </div>
 
