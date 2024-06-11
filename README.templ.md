@@ -39,7 +39,7 @@
 <br />
 <br />
 
-I’m a Software Engineer & Troublemaker. I like to explore problems on a whiteboard, find an elegant solution, and scale it with code.
+I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, find elegant solutions, and scale them with code.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=7o182OnK-LY">
