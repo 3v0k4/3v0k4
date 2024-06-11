@@ -7,7 +7,7 @@
     <img width="75" src=".github/images/drop.svg" />
   </a>
 
-  <strong>87 mg/dl at 20:07 CET</strong>
+  <strong>87 mg/dl at 20:17 CET</strong>
 
   <br />
 
