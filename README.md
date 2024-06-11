@@ -7,7 +7,7 @@
     <img width="75" src=".github/images/drop.svg" />
   </a>
 
-  <strong>67 mg/dl at 18:22</strong>
+  <strong>Last A1C: 4.8% / 29mmol/l</strong>
 
   <br />
 
