@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>91 mg/dl at 16:38 CET</strong>
+  <strong>87 mg/dl at 16:43 CET</strong>
 
   <br />
 
@@ -77,3 +77,4 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - [Future Conf](https://www.futureconf.tech/) — TypeFirst TypeScript
 - [Tech Bytes by Ocado](https://www.meetup.com/tech-bytes-ocado-technology-krakow/events/293690403/) - Bugs don’t exist ([video](https://www.youtube.com/watch?v=7o182OnK-LY))
 - [meet.js](https://www.meetup.com/krakowjs/events/292600643/) - TypeFirst TypeScript
+- [YouTube channel](https://www.youtube.com/@riccardoodone)
