@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>107 mg/dl at 18:18 CET</strong>
+  <strong>112 mg/dl at 18:28 CET</strong>
 
   <br />
 
@@ -49,8 +49,9 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Author  ✍️
 
-- [Unpath](https://github.com/3v0k4/unpath) — runs a command with a modified PATH that does not contain the given command(s)
-- [Favicon Factory](https://github.com/3v0k4/favicon_factory) — generates from an SVG the minimal set of icons needed by modern browsers.
+- [exit.nvim](https://github.com/3v0k4/exit.nvim) — I solved how to exit Vim. exit.nvim prompts LLMs to write neovim commands.
+- [Unpath](https://github.com/3v0k4/unpath) — Runs a command with a modified PATH that does not contain the given command(s)
+- [Favicon Factory](https://github.com/3v0k4/favicon_factory) — Generates from an SVG the minimal set of icons needed by modern browsers.
 - [TypeScript.tips](https://typescript.tips) — Make bugs impossible. One TypeScript tip at a time.
 - [Rictionary](https://rictionary.odone.io) — My own personal Polish dictionary.
 - [Debug your time in range](https://odone.io/tir) — The 6-week course for diabetic developers to increase TIR by 10%.
