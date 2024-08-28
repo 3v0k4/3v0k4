@@ -75,6 +75,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Speaker  🎤
 
+- [SoCraTes](https://www.socrates-conference.de/) — Just enough Python to beat Excel ([Jupyter Notebook](https://www.kaggle.com/code/riccardoodone/just-enough-python-to-beat-excel-socrates2024))
 - [Future Conf](https://www.futureconf.tech/) — TypeFirst TypeScript
 - [Tech Bytes by Ocado](https://www.meetup.com/tech-bytes-ocado-technology-krakow/events/293690403/) - Bugs don’t exist ([video](https://www.youtube.com/watch?v=7o182OnK-LY))
 - [meet.js](https://www.meetup.com/krakowjs/events/292600643/) - TypeFirst TypeScript
