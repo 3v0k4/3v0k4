@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>54 mg/dl at 16:18 CET</strong>
+  <strong>59 mg/dl at 16:28 CET</strong>
 
   <br />
 
