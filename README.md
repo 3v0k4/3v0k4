@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>Last A1C: 4.8% / 29mmol/l</strong>
+  <strong>100 mg/dl at 08:33 CET</strong>
 
   <br />
 
