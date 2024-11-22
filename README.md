@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>73 mg/dl at 17:03 CET</strong>
+  <strong>72 mg/dl at 17:18 CET</strong>
 
   <br />
 
@@ -59,6 +59,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Contributor  🎉
 
+- https://github.com/basecamp/kamal-site/pull/149
 - https://github.com/basecamp/thruster/pull/29
 - https://github.com/basecamp/thruster/pull/18
 - https://github.com/basecamp/thruster/pull/13
