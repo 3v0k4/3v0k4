@@ -59,6 +59,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Contributor  🎉
 
+- https://github.com/basecamp/kamal-site/pull/149
 - https://github.com/basecamp/thruster/pull/29
 - https://github.com/basecamp/thruster/pull/18
 - https://github.com/basecamp/thruster/pull/13
