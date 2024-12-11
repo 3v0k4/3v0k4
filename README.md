@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>112 mg/dl at 12:43 CET</strong>
+  <strong>111 mg/dl at 12:53 CET</strong>
 
   <br />
 
@@ -70,15 +70,16 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Contributor  🎉
 
-- https://github.com/basecamp/kamal-site/pull/149
-- https://github.com/basecamp/thruster/pull/29
-- https://github.com/basecamp/thruster/pull/18
-- https://github.com/basecamp/thruster/pull/13
-- https://github.com/wspurgin/rspec-sidekiq/pull/219
-- https://github.com/wspurgin/rspec-sidekiq/pull/216
-- https://github.com/wspurgin/rspec-sidekiq/pull/215
-- https://github.com/facebook/docusaurus/pull/8445
-- https://github.com/yesodweb/yesod/pull/1619
+- https://github.com/basecamp/kamal-site/pull/149 in Ruby
+- https://github.com/basecamp/thruster/pull/29 in Go
+- https://github.com/basecamp/thruster/pull/18 in Go
+- https://github.com/basecamp/thruster/pull/13 in Go
+- https://github.com/wspurgin/rspec-sidekiq/pull/219 in Ruby
+- https://github.com/wspurgin/rspec-sidekiq/pull/216 in Ruby
+- https://github.com/wspurgin/rspec-sidekiq/pull/215 in Ruby
+- https://github.com/facebook/docusaurus/pull/8445 in TypeScript
+- https://github.com/yesodweb/yesod/pull/1619 in Haskell
+- [Knapsack Pro](https://github.com/search?q=org%3AKnapsackPro+type%3Apr+author%3A3v0k4+&type=pullrequests) in Ruby & TypeScript
 
 ## Writer  ✍️
 
