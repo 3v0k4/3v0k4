@@ -112,7 +112,7 @@ const main = async () => {
   const template = readFileSync(TEMPLATE_PATH);
   const string =
     entries.length == 0
-      ? "<strong>Last A1C: 4.8% / 29mmol/l</strong>"
+      ? "<strong>Last A1C: 5.14%</strong>"
       : `<strong>${entries[0].estimatedValue} mg/dl at ${entries[0].timestamp} CET</strong>`;
   const readme = template.toString().replace("<!--GLUCOSE-->", string);
   writeFileSync(README_PATH, readme);
