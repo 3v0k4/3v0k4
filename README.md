@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>Last A1C: 4.8% / 29mmol/l</strong>
+  <strong>Last A1C: 5.14%</strong>
 
   <br />
 
@@ -57,6 +57,11 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - [Rictionary](https://rictionary.odone.io) — My own personal Polish dictionary.
 - [remark-lint-relative-markdown-file-path-links](https://github.com/3v0k4/remark-lint-relative-markdown-file-path-links) — remark-lint rule to warn when a link to another markdown document (md/mdx) is not a relative file path with extension.
 - [remark-lint-docusaurus-empty-lines-around-admonition-content](https://github.com/3v0k4/remark-lint-docusaurus-empty-lines-around-admonition-content) — remark-lint rule to warn when an admonition does not have empty lines around its content.
+- [What The Version aka WTV?](https://gist.github.com/3v0k4/3625f3922e3035811e937155fd635e55) — Version ranges in different languages: Ruby, JavaScript, Rust.
+- [git amend-files](https://gist.github.com/3v0k4/06d1110b30ff7b05dcd3be372130a0e8)
+
+## Karateka 🥋
+
 - [Cake Machine Kata](https://github.com/3v0k4/stream-kata) in concurrent Go
 - [Stream Kata](https://github.com/3v0k4/stream-kata) in concurrent Go
 - [TodoMPA](https://github.com/3v0k4/todo-mpa) — TodoMVC with 0 lines of JavaScript thanks to HTMX (and Go)
@@ -65,8 +70,6 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - [AOC 2020](https://github.com/3v0k4/aoc20) in Rust
 - [AOC 2019](https://github.com/3v0k4/aoc19) in Haskell
 - AOC 2018 in PureScript — [Day 1](https://gist.github.com/3v0k4/53c950ca4e35c9e42516c40ac8b0c18d), [Day2](https://gist.github.com/3v0k4/453ff365e53bc276d4a6a7fb66f1771a), [Day 3](https://gist.github.com/3v0k4/4ddb1cb2d173f1343e25f4d9644551520), [Day 4](https://gist.github.com/3v0k4/3b8a4494c7e111fdf48a6b182d5ae5f7), [Day 5](https://gist.github.com/3v0k4/14d5b42640bc58a817bc6186de2b099a), [Day 6](https://gist.github.com/3v0k4/44160a29a1b83ed4ea4a038977f635f0), [Day 7](https://gist.github.com/3v0k4/11742f879ab0c51b30e451dae92faab6), [Day 8](https://gist.github.com/3v0k4/54ff8527a3c732fbce4cd49a929a9ee9), [Day 9](https://gist.github.com/3v0k4/57bf37be74bf7ffe9aa41c8e736e2f1a), [Day 10](https://gist.github.com/3v0k4/32076ae8fc4b005ca39fbabbfdeb4933)
-- [What The Version aka WTV?](https://gist.github.com/3v0k4/3625f3922e3035811e937155fd635e55) — Version ranges in different languages: Ruby, JavaScript, Rust.
-- [git amend-files](https://gist.github.com/3v0k4/06d1110b30ff7b05dcd3be372130a0e8)
 
 ## Contributor  🎉
 
