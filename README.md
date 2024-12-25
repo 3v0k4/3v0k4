@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>115 mg/dl at 12:21 CET</strong>
+  <strong>Last A1C: 5.14%</strong>
 
   <br />
 
