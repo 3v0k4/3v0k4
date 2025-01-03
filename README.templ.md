@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <a href="https://odone.io/tir">
+  <a href="https://odone.me/tir">
     <picture>
       <source srcset=".github/images/drop-light.svg" media="(prefers-color-scheme: dark)" />
       <img width="75" src=".github/images/drop-dark.svg" />
@@ -14,7 +14,7 @@
 
   <br />
 
-  <a href="https://odone.io">
+  <a href="https://odone.me">
     <picture>
       <source srcset=".github/images/home-light.svg" media="(prefers-color-scheme: dark)" />
       <img width="25" align="top" src=".github/images/home-dark.svg" />
@@ -28,7 +28,7 @@
     </picture>
   </a>
   &nbsp; &nbsp;
-  <a href="https://odone.io/tir">
+  <a href="https://odone.me/tir">
     <picture>
       <source srcset=".github/images/youtube-light.svg" media="(prefers-color-scheme: dark)" />
       <img width="25" align="top" src=".github/images/youtube-dark.svg" />
@@ -54,7 +54,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - [Unpath](https://github.com/3v0k4/unpath) — Runs a command with a modified PATH that does not contain the given command(s)
 - [Favicon Factory](https://github.com/3v0k4/favicon_factory) — Generates from an SVG the minimal set of icons needed by modern browsers.
 - [TypeScript.tips](https://typescript.tips) — Make bugs impossible. One TypeScript tip at a time.
-- [Rictionary](https://rictionary.odone.io) — My own personal Polish dictionary.
+- [Rictionary](https://rictionary.odone.me) — My own personal Polish dictionary.
 - [remark-lint-relative-markdown-file-path-links](https://github.com/3v0k4/remark-lint-relative-markdown-file-path-links) — remark-lint rule to warn when a link to another markdown document (md/mdx) is not a relative file path with extension.
 - [remark-lint-docusaurus-empty-lines-around-admonition-content](https://github.com/3v0k4/remark-lint-docusaurus-empty-lines-around-admonition-content) — remark-lint rule to warn when an admonition does not have empty lines around its content.
 - [What The Version aka WTV?](https://gist.github.com/3v0k4/3625f3922e3035811e937155fd635e55) — Version ranges in different languages: Ruby, JavaScript, Rust.
@@ -86,7 +86,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Writer  ✍️
 
-- [Blog](https://odone.io/)
+- [Blog](https://odone.me/)
 - [PinkLetter](https://buttondown.email/riccardo.odone/archive)
 
 ## Co-Organizer  👏
@@ -104,6 +104,6 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Diabetic 🩸
 
-- [Debug your time in range](https://odone.io/tir) — The 6-week course for diabetic developers to increase TIR by 10%.
+- [Debug your time in range](https://odone.me/tir) — The 6-week course for diabetic developers to increase TIR by 10%.
 - [Dextop](https://getdextop.com/) — Real-time Dexcom blood sugars on your desktop.
-- [Basal](https://basal.odone.io) — Let’s fine-tune your basal insulin.
+- [Basal](https://basal.odone.me) — Let’s fine-tune your basal insulin.
