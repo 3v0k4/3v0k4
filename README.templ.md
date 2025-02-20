@@ -49,6 +49,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Coder 🧑‍💻
 
+- [HotDocs](https://github.com/3v0k4/hot_docs) — Write your docs with Ruby on Rails.
 - [Degem](https://github.com/3v0k4/degem) — Find unused gems in a Ruby bundle.
 - [exit.nvim](https://github.com/3v0k4/exit.nvim) — I solved how to exit Vim. exit.nvim prompts LLMs to write neovim commands.
 - [Unpath](https://github.com/3v0k4/unpath) — Runs a command with a modified PATH that does not contain the given command(s)
