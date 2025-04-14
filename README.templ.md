@@ -82,6 +82,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - https://github.com/wspurgin/rspec-sidekiq/pull/219 in Ruby
 - https://github.com/wspurgin/rspec-sidekiq/pull/216 in Ruby
 - https://github.com/wspurgin/rspec-sidekiq/pull/215 in Ruby
+- https://github.com/magicbell/magicbell-js/pull/13 in TypeScript
 - https://github.com/facebook/docusaurus/pull/8445 in TypeScript
 - https://github.com/yesodweb/yesod/pull/1619 in Haskell
 - [Knapsack Pro](https://github.com/search?q=org%3AKnapsackPro+type%3Apr+author%3A3v0k4+&type=pullrequests) in Ruby & TypeScript
