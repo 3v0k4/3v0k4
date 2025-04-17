@@ -63,7 +63,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Karateka 🥋
 
-- [Cake Machine Kata](https://github.com/3v0k4/stream-kata) in concurrent Go
+- [Cake Machine Kata](https://github.com/3v0k4/cake-machine-kata) in concurrent Go
 - [Stream Kata](https://github.com/3v0k4/stream-kata) in concurrent Go
 - [TodoMPA](https://github.com/3v0k4/todo-mpa) — TodoMVC with 0 lines of JavaScript thanks to HTMX (and Go)
 - [AOC 2023](https://github.com/3v0k4/aoc23) in Go
