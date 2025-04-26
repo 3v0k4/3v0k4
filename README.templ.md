@@ -86,6 +86,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 - https://github.com/facebook/docusaurus/pull/8445 in TypeScript
 - https://github.com/yesodweb/yesod/pull/1619 in Haskell
 - [Knapsack Pro](https://github.com/search?q=org%3AKnapsackPro+type%3Apr+author%3A3v0k4+&type=pullrequests) in Ruby & TypeScript
+- [HabitatMap & AirCasting](https://github.com/search?q=org%3AHabitatMap+type%3Apr+author%3A3v0k4+&type=pullrequests) in Ruby & Elm & JavaScript
 
 ## Writer  ✍️
 
