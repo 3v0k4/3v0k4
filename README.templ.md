@@ -74,6 +74,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Contributor  🎉
 
+- https://github.com/facebook/docusaurus/pull/11262 in Css
 - https://github.com/rails/rails/pull/51746 in Ruby
 - https://github.com/basecamp/kamal-site/pull/149 in Ruby
 - https://github.com/basecamp/thruster/pull/29 in Go
