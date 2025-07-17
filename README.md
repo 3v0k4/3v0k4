@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>156 mg/dl at 21:52 CET</strong>
+  <strong>145 mg/dl at 22:02 CET</strong>
 
   <br />
 
@@ -74,6 +74,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Contributor  🎉
 
+- https://github.com/rails/importmap-rails/pull/305 in Ruby
 - https://github.com/rails/importmap-rails/pull/298 in Ruby
 - https://github.com/facebook/docusaurus/pull/11262 in Css
 - https://github.com/rails/rails/pull/51746 in Ruby
