@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>76 mg/dl at 22:31 CET</strong>
+  <strong>81 mg/dl at 22:41 CET</strong>
 
   <br />
 
@@ -49,6 +49,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Coder 🧑‍💻
 
+- [Ser](https://github.com/3v0k4/ser) — Ser(ve) your web app with HTTPS to any device on your network (mDNS).
 - [HotDocs](https://github.com/3v0k4/hot_docs) — Write your docs with Ruby on Rails.
 - [Degem](https://github.com/3v0k4/degem) — Find unused gems in a Ruby bundle.
 - [exit.nvim](https://github.com/3v0k4/exit.nvim) — I solved how to exit Vim. exit.nvim prompts LLMs to write neovim commands.
