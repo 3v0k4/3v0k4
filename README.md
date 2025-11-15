@@ -10,7 +10,7 @@
     </picture>
   </a>
 
-  <strong>71 mg/dl at 12:55 CET</strong>
+  <strong>87 mg/dl at 13:10 CET</strong>
 
   <br />
 
@@ -49,6 +49,7 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 ## Coder 🧑‍💻
 
+- [Rack::Bacoo](https://github.com/3v0k4/rack-bacoo) — Combine HTTP Basic Authentication with a session cookie.
 - [Ser](https://github.com/3v0k4/ser) — Ser(ve) your web app with HTTPS to any device on your network (mDNS).
 - [HotDocs](https://github.com/3v0k4/hot_docs) — Write your docs with Ruby on Rails.
 - [Degem](https://github.com/3v0k4/degem) — Find unused gems in a Ruby bundle.
