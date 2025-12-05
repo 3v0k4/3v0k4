@@ -51,12 +51,12 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 
 - [Rack::Bacoo](https://github.com/3v0k4/rack-bacoo) — Combine HTTP Basic Authentication with a session cookie.
 - [Ser](https://github.com/3v0k4/ser) — Ser(ve) your web app with HTTPS to any device on your network (mDNS).
-- [HotDocs](https://github.com/3v0k4/hot_docs) — Write your docs with Ruby on Rails.
+- [HotDocs](https://github.com/3v0k4/hotdocs) — Write your docs with Ruby on Rails.
 - [Degem](https://github.com/3v0k4/degem) — Find unused gems in a Ruby bundle.
 - [exit.nvim](https://github.com/3v0k4/exit.nvim) — I solved how to exit Vim. exit.nvim prompts LLMs to write neovim commands.
 - [Unpath](https://github.com/3v0k4/unpath) — Runs a command with a modified PATH that does not contain the given command(s)
 - [Favicon Factory](https://github.com/3v0k4/favicon_factory) — Generates from an SVG the minimal set of icons needed by modern browsers.
-- [TypeScript.tips](https://typescript.tips) — Make bugs impossible. One TypeScript tip at a time.
+- [TypeScript.tips](https://typescript.odone.me) — Make bugs impossible. One TypeScript tip at a time.
 - [Rictionary](https://rictionary.odone.me) — My own personal Polish dictionary.
 - [remark-lint-relative-markdown-file-path-links](https://github.com/3v0k4/remark-lint-relative-markdown-file-path-links) — remark-lint rule to warn when a link to another markdown document (md/mdx) is not a relative file path with extension.
 - [remark-lint-docusaurus-empty-lines-around-admonition-content](https://github.com/3v0k4/remark-lint-docusaurus-empty-lines-around-admonition-content) — remark-lint rule to warn when an admonition does not have empty lines around its content.
@@ -114,5 +114,5 @@ I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, fi
 ## Diabetic 🩸
 
 - [Debug your time in range](https://odone.me/tir) — The 6-week course for diabetic developers to increase TIR by 10%.
-- [Dextop](https://getdextop.com/) — Real-time Dexcom blood sugars on your desktop.
+- [Dextop](https://dextop.odone.me/) — Real-time Dexcom blood sugars on your desktop.
 - [Basal](https://basal.odone.me) — Let’s fine-tune your basal insulin.
