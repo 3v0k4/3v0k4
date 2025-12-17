@@ -39,7 +39,13 @@
 <br />
 <br />
 
-I’m a Software Engineer & Troublemaker. I explore problems on a whiteboard, find elegant solutions, and scale them with code.
+Ciao!
+
+I'm Riccardo 🇮🇹, but you can call me Ricardo 🇨🇱 or Rysiek 🇵🇱.
+
+I’m a Software Engineer & Troublemaker: 
+
+I build web/dev tools with an obsession for simplicity and developer experience.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=7o182OnK-LY">
